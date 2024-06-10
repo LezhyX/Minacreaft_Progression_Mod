@@ -1,0 +1,45 @@
+{
+  "_fv": 33,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "reinforcedbucketmilk",
+    "customModelName": "Tool",
+    "name": "Укрепленное ведро с молоком",
+    "rarity": "UNCOMMON",
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 32,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": "CUSTOM:ReinforcedBucket"
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 1.0,
+    "specialInfo": [],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onFinishUsingItem": {
+      "name": "MilkDrinking"
+    },
+    "isFood": true,
+    "nutritionalValue": 0,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": "CUSTOM:ReinforcedBucket"
+    },
+    "isMeat": false,
+    "isAlwaysEdible": true,
+    "animation": "drink"
+  }
+}

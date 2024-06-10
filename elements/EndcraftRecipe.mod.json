@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.NETHER_BRICK"
+      },
+      {
+        "value": "Blocks.EMERALD_BLOCK"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Endcraft"
+    },
+    "name": "endcraft_recipe",
+    "namespace": "mod"
+  }
+}
